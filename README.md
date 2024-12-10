@@ -212,3 +212,14 @@ php artisan serve
 Abre el navegador en [http://127.0.0.1:8000](http://127.0.0.1:8000) y prueba la aplicación.
 
 ---
+
+
+### ENTREGA DE DOCUMENTACIÓN
+
+#### Título y Descripción: Un título claro y una breve descripción del proyecto.
+#### Tabla de Contenidos: Para facilitar la navegación por el documento.
+####  Requisitos Previos: Herramientas y versiones necesarias para ejecutar el proyecto (como PHP, Composer, etc.).
+####  Instalación: Pasos detallados para clonar el repositorio, instalar dependencias y configurar el entorno.
+####  Uso: Instrucciones para ejecutar la aplicación, incluyendo comandos relevantes.
+####  Testing: Cómo ejecutar el conjunto de pruebas, incluyendo comandos y ejemplos de salida.
+####  Control de versiones: tal y como se espera de un proyecto "profesional" (¿ramas?)
